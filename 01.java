@@ -87,7 +87,7 @@ class Student {
     }
 }
 
-public class Attendance {
+ class Attendance {
     public static void main(String[] args) {
         Classroom classroom = new Classroom();
 
