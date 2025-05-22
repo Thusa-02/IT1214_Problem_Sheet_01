@@ -56,7 +56,7 @@ class Student{
 }
 
 
-class GradeCalculator{
+class StudentDemo{
 	public static void main (String[] args){
 		try{
 			
